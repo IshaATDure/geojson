@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:ns2="http://www.google.com/kml/ext/2.2" xmlns:ns3="http://www.w3.org/2005/Atom" xmlns:ns4="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+    <Document>
+        <LookAt>
+            <longitude>21.8664935448283</longitude>
+            <latitude>-4.088233767077938</latitude>
+            <altitude>3647576.051602499</altitude>
+            <heading>0.0</heading>
+            <tilt>0.0</tilt>
+            <range>2947432.7711513215</range>
+            <altitudeMode>clampToGround</altitudeMode>
+        </LookAt>
+        <NetworkLink>
+            <name>DRC Admin Boundaries Level 2</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>This layer includes Administrative Boundaries Level 2 as per the standard structure of the GeoEnabler project.</description>
+            <LookAt>
+                <longitude>21.8728468726505</longitude>
+                <latitude>-4.09054585378891</latitude>
+                <altitude>3744437.4198998697</altitude>
+                <heading>0.0</heading>
+                <tilt>0.0</tilt>
+                <range>3025701.8372761533</range>
+                <altitudeMode>clampToGround</altitudeMode>
+            </LookAt>
+            <Url>
+                <href>https://geonode.wfp.org/geoserver/wms?service=wms&amp;request=GetMap&amp;version=1.1.1&amp;format=application/vnd.google-earth.kml+xml&amp;layers=geonode:cod_adm2_un&amp;styles=cod_adm2_un&amp;height=2048&amp;width=2048&amp;transparent=false&amp;srs=EPSG:4326&amp;format_options=AUTOFIT:true;KMATTR:true;KMPLACEMARK:false;KMSCORE:40;MODE:refresh;SUPEROVERLAY:false&amp;access_token=None</href>
+                <refreshInterval>0.0</refreshInterval>
+                <viewRefreshMode>onStop</viewRefreshMode>
+                <viewRefreshTime>1.0</viewRefreshTime>
+                <viewBoundScale>1.0</viewBoundScale>
+            </Url>
+        </NetworkLink>
+    </Document>
+</kml>
